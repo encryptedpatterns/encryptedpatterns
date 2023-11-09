@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @encryptedpatterns
+- 👀 I’m interested in learning new things.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on anything available.
+- 📫 How to reach me: liamshermschool@gmail.com
